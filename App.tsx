@@ -25,10 +25,10 @@ const App = () => {
             flex: 1,
             alignItems: "center",
             justifyContent: "center",
-            backgroundColor: "#262626",
+            backgroundColor: "#fff",
           }}
         >
-          <Text style={{ color: "#fdfdfd", fontSize: 30 }}>Hello</Text>
+          <Text style={{ color: "#000", fontSize: 30, textAlign: 'center'}}>{`Home\nPage`}</Text>
         </View>
       </AnimatedSplash>
     </>
