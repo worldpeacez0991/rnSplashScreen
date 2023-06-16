@@ -1,8 +1,8 @@
 ### React Native Splash Screen Example
 
-![SplashScreen_RELEASE_Demo](SplashScreen_RELEASE_Demo.gif)
+![SplashScreen_RELEASE_Demo](SplashScreen_RELEASE_Demo.gif)  
 
-Learn how to avoid 3 to 5 seconds of black screen during boot up
+Learn how to avoid 3 to 5 seconds of black screen during boot up  
 ![Black_Screen](Black_Screen.jpg)
 
 ## Installation
