@@ -1,6 +1,6 @@
 ### React Native Splash Screen Example
 
-![SplashScreen_RELEASE_Demo](SplashScreen_RELEASE_Demo.gif)  
+<img src="SplashScreen_RELEASE_Demo.gif" width="250" height="250"/>
 
 Learn how to avoid 3 to 5 seconds of black screen during boot up  
 ![Black_Screen](Black_Screen.jpg)
@@ -11,7 +11,7 @@ yarn add react-native-animated-splash-screen
 Files edited:
 1. App.tsx
 
-# Hide the first default splash screen
+## Hide the first default splash screen
 2. android\app\src\main\res\values\styles.xml - Edited :9 to :12
 > <style name="Theme.RemoveSplashScreenTheme" parent="@style/AppTheme">
 >   <item name="android:windowIsTranslucent">true</item>
