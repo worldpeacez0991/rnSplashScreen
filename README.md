@@ -7,7 +7,7 @@ React Native Splash Screen (**DEBUG** APK) - 2 to 5 seconds of black screen duri
 <img src="SplashScreen_Debug_BlackScreen.gif" height="500"/>
 
 ## Installation
-yarn add react-native-animated-splash-screen
+> yarn add react-native-animated-splash-screen
 
 Files edited:
 1. App.tsx
