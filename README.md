@@ -17,8 +17,8 @@ Files edited:
 >   <item name="android:windowIsTranslucent">true</item>
 > </style>
 
-3. android\app\src\main\AndroidManifest.xml
-:12 android:theme="@style/Theme.RemoveSplashScreenTheme"
+3. android\app\src\main\AndroidManifest.xml - Edited :12  
+> android:theme="@style/Theme.RemoveSplashScreenTheme"
 
 4. Build_Release_APK.sh
 
