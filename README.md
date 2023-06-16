@@ -1,8 +1,9 @@
 ### React Native Splash Screen Example
 
+React Native Splash Screen (RELEASE APK) - Instant boot up of Splash Screen
 <img src="SplashScreen_RELEASE_Demo.gif" height="500"/>
 
-Learn how to avoid 3 to 5 seconds of black screen during boot up  
+React Native Splash Screen (DEBUG APK) - 3 to 5 seconds of black screen during boot up of Splash Screen
 ![Black_Screen](Black_Screen.jpg)
 
 ## Installation
