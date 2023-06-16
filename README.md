@@ -16,11 +16,13 @@ Files edited:
 2. android\app\src\main\res\values\styles.xml - Edited :9 to :12
 ``` <style name="Theme.RemoveSplashScreenTheme" parent="@style/AppTheme">
         <item name="android:windowIsTranslucent">true</item>
-    </style> ```
+    </style>
+```
 
 
 3. android\app\src\main\AndroidManifest.xml - Edited :12  
-``` android:theme="@style/Theme.RemoveSplashScreenTheme" ```
+``` android:theme="@style/Theme.RemoveSplashScreenTheme" 
+```
 
 4. Build_Release_APK.sh
 
