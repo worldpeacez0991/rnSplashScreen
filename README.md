@@ -26,12 +26,12 @@ Files edited:
 ## Run Debug APK on emulator/phone
 > yarn android  
 
-For Debug version of APK, upon clicking on your app icon to boot up, you will see a black screen for 3 to 5 seconds on first launch, and then you will see the splash screen immediately.
+For Debug version of APK, upon clicking on your app icon to boot up, you will see a black screen for few seconds on first launch, and then you will see the splash screen immediately.
 
 ## Run Release APK on emulator/phone
 > source Build_Release_APK.sh
 
-For Release version of APK, upon clicking on your app icon to boot up, you will NOT see a black screen for 3 to 5 seconds on first launch, the app will boot/start up in less than 1 second, and then you will see the splash screen immediately.
+For Release version of APK, upon clicking on your app icon to boot up, you will NOT see a black screen for few seconds on first launch, the app will boot/start up in less than 1 second, and then you will see the splash screen immediately.
 
 ## License
 
