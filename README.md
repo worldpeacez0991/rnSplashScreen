@@ -23,7 +23,7 @@ Files edited:
 4. Build_Release_APK.sh
 
 ## Run Debug APK on emulator/phone
-> yarn android
+> yarn android  
 For Debug version of APK, upon clicking on your app icon to boot up, you will see a black screen for 3 to 5 seconds on first launch, and then you will see the splash screen immediately.
 
 ## Run Release APK on emulator/phone
