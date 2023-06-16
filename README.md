@@ -1,6 +1,6 @@
 ### React Native Splash Screen Example
 
-<img src="SplashScreen_RELEASE_Demo.gif" width="250" height="250"/>
+<img src="SplashScreen_RELEASE_Demo.gif" height="500"/>
 
 Learn how to avoid 3 to 5 seconds of black screen during boot up  
 ![Black_Screen](Black_Screen.jpg)
