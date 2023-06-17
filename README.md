@@ -39,7 +39,7 @@ For Release version of APK, upon clicking on your app icon to boot up, you will 
 
 ## License
 
-Library 'react-native-animated-splash-screen' is licensed under [The MIT License](LICENSE).
+Library 'react-native-animated-splash-screen' is licensed under [The MIT License](https://mit-license.org/). 
 
 ## Credits
 Regarding main project 'react-native-animated-splash-screen', please refer to 'https://github.com/fabio-alss-freitas/react-native-animated-splash-screen'
